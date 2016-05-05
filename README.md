@@ -3,14 +3,6 @@ Projetos do livro Criando Sistemas RESTful com PHP
 
 Este projeto contém todo o código fonte do livro, no qual você usar como referência para o seu aprendizado. 
 
-## Demo
-[http://www.danielschmitz.com.br/sistemavendas/sistema-vendas-jquery/index.php?go=login](http://www.danielschmitz.com.br/sistemavendas/sistema-vendas-jquery/index.php?go=login "Clique aqui para acessar   (login: admin senha: admin)")
-
-    login: admin 
-    senha: admin
-
-Voc também pode logar como vendedor ou cliente, bastando criar um vendedor com o login e senha e depois logando com ele. Como vendedor, é possível ver a tela de ponto de venda.
-
 Telas: http://imgur.com/a/yaBXq#4, http://i.imgur.com/ZY38mg8.png
 
 ## Projetos
